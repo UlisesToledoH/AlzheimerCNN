@@ -1,0 +1,3 @@
+# Ignorar archivos de datos comprimidos o temporales
+Aplicacion/Aplicacion.rar
+*.tmp
